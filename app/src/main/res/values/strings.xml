@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">kotlinComposeAcademy</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password!?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t Have an account ?! Sign up</string>
+    <string name="welcome_to_our_jetpack_compose_app">Welcome to our Jetpack Compose App</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="image_logo">Image Logo</string>
+    <string name="already_have_an_account_login">Already have an account !? Login</string>
+    <string name="calculator_application">Calculator Application</string>
+    <string name="restaurant_application">Restaurant Application</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+    <string name="result_here">Result Here:</string>
+    <string name="reset_values">Reset Values</string>
+    <string name="welcome_to_our_restaurant_application">Welcome to our restaurant application</string>
+    <string name="which_kind_of_burger_you_neet_to_order">Which kind of burger you neet to order</string>
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="shrimp">Shrimp</string>
+    <string name="which_extras_you_want_to_add">Which Extras you want to add</string>
+    <string name="cheese">Cheese</string>
+    <string name="salad">Salad</string>
+    <string name="onion_ring">Onion Ring</string>
+    <string name="order">Order</string>
+    <string name="total_order_is">Total Order is :</string>
+</resources>
