@@ -33,4 +33,6 @@
     <string name="onion_ring">Onion Ring</string>
     <string name="order">Order</string>
     <string name="total_order_is">Total Order is :</string>
+    <string name="coroutineapplication">CoroutineApplication</string>
+    <string name="dummy_text">Dummy Text</string>
 </resources>
