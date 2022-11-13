@@ -35,4 +35,7 @@
     <string name="total_order_is">Total Order is :</string>
     <string name="coroutineapplication">CoroutineApplication</string>
     <string name="dummy_text">Dummy Text</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_amount">Item Amount</string>
+    <string name="add_new_item">Add New Item</string>
 </resources>
