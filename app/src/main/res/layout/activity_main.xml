@@ -26,5 +26,22 @@
         android:layout_marginTop="20dp"
         android:layout_height="wrap_content"
         android:text="@string/coroutineapplication"/>
-
+    <Button
+        android:id="@+id/btn_notificationapp"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="@string/notification_application"/>
+    <Button
+        android:id="@+id/btn_broadcastReceiver"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="@string/broadcastreceiver_application"/>
+    <Button
+        android:id="@+id/btnFCM"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="@string/firebase_cloud_messaging_application"/>
 </LinearLayout>

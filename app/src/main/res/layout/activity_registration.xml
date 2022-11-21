@@ -7,59 +7,68 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="16dp"
         android:orientation="vertical"
+        android:padding="16dp"
         tools:context=".auth.RegistrationActivity">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/compose"
-        android:contentDescription="@string/image_logo" />
-    <EditText
-        android:id="@+id/et_first_name"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/enter_your_first_name"
-        android:inputType="textPersonName"
-        android:autofillHints="" />
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/enter_your_email_address"
-        android:layout_marginTop="10dp"
-        android:inputType="textEmailAddress"
-        android:autofillHints="" />
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/enter_phone_number"
-        android:layout_marginTop="10dp"
-        android:inputType="phone"
-        android:autofillHints="" />
-    <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:hint="@string/enter_your_password"
-        android:inputType="textPassword"
-        android:autofillHints="" />
-    <Button
-        android:id="@+id/btn_sign_up"
-        android:layout_width="200dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"
-        android:text="@string/sign_up"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/image_logo"
+            android:src="@drawable/compose" />
+
+        <EditText
+            android:id="@+id/etFullName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints=""
+            android:hint="@string/enter_your_first_name"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/etEmailAddressRegistration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:autofillHints=""
+            android:hint="@string/enter_your_email_address"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/etPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:autofillHints=""
+            android:hint="@string/enter_phone_number"
+            android:inputType="phone" />
+
+        <EditText
+            android:id="@+id/etPasswordRegistration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:autofillHints=""
+            android:hint="@string/enter_your_password"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btn_sign_up"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="@string/sign_up" />
+
         <TextView
             android:id="@+id/tv_Login"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textStyle="bold"
-            android:textSize="15sp"
-            android:textColor="@color/black"
             android:layout_marginTop="20dp"
-            android:text="@string/already_have_an_account_login"/>
-</LinearLayout>
+            android:text="@string/already_have_an_account_login"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
 </ScrollView>

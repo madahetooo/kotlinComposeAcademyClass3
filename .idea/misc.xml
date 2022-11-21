@@ -5,10 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.262" />
         <entry key="app/src/main/res/layout/activity_add_shopping_item_dialog.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_broadcast_receiver_example.xml" value="0.21302083333333333" />
         <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_coroutine_app.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_fcm.xml" value="0.335" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_notification_example.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_registration.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_restaurant.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_shopping.xml" value="0.33" />

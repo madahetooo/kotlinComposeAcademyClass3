@@ -38,4 +38,12 @@
     <string name="item_name">Item Name</string>
     <string name="item_amount">Item Amount</string>
     <string name="add_new_item">Add New Item</string>
+    <string name="shownotification">ShowNotification</string>
+    <string name="notification_application">Notification Application</string>
+    <string name="broadcastreceiver_application">BroadCastReceiver Application</string>
+    <string name="enter_notification_title">Enter Notification Title</string>
+    <string name="enter_notification_message">Enter Notification Message</string>
+    <string name="user_device_token">User Device Token</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="firebase_cloud_messaging_application">Firebase Cloud Messaging Application</string>
 </resources>
